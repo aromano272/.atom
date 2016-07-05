@@ -1,0 +1,25 @@
+"*":
+  "autocomplete-plus": {}
+  core:
+    autoHideMenuBar: true
+    themes: [
+      "one-dark-ui"
+      "monokai"
+    ]
+  editor:
+    backUpBeforeSaving: true
+    fontFamily: "Roboto Mono"
+    fontSize: 13
+    invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "e1f0f8b2-c6a4-76e3-5e30-b955fa6f28ae"
+  "gpp-compiler": {}
+  "one-dark-ui": {}
+  "one-light-ui": {}
+  "tree-view":
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
